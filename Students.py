@@ -2,10 +2,10 @@ import json
 from os import write
 import tkinter
 from tkinter import END, Frame, ttk, messagebox
-from turtle import bgcolor
+
 
 # helps to show results as table
-from tabulate import tabulate # type: ignore
+from tabulate import tabulate 
 
 
 # read list of studentss from the file
